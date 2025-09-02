@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Kumar
+    given-names: Priyanshu
+    orcid: "https://orcid.org/0009-0006-8198-193X"
+title: "AI Reviewer Meta-Failure: ChatGPT-5 Pattern Bias Incident"
+date-released: 2025-09-01
+version: "1.0"
+repository-code: "https://github.com/priyanshuphenomenal007/AI-Reviewer-MetaFailure-ChatGPT5"
+abstract: "This repository documents a unique case where ChatGPT-5, acting as a reviewer, repeatedly failed by carrying assumptions from prior document versions. Logs, screenshots, cryptographic checksums, and video evidence are included."

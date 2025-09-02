@@ -1,0 +1,76 @@
+{
+  "experiment": "chatgpt5_pattern-bias_incident_v15-v16",
+  "researcher": "Priyanshu Kumar",
+  "orcid": "0009-0006-8198-193X",
+  "created_utc": "2025-09-01T14:00:00Z",
+  "version": "1.1"
+}
+{
+  "turn": 1,
+  "role": "user",
+  "utc_timestamp_iso": "2025-09-01T14:01:00Z",
+  "local_timestamp_iso": "2025-09-01T19:31:00+05:30",
+  "summary": "User uploaded PDF v15 and instructed the assistant to check screenshots properly.",
+  "salient_terms": ["PDF v15", "screenshots", "instruction"],
+  "citations_or_refs": [],
+  "notes_on_uncertainty": "",
+  "prev_hash": null
+}
+{
+  "turn": 2,
+  "role": "assistant",
+  "utc_timestamp_iso": "2025-09-01T14:02:00Z",
+  "local_timestamp_iso": "2025-09-01T19:32:00+05:30",
+  "summary": "Assistant wrongly denied that screenshots existed in v15.",
+  "salient_terms": ["screenshots missing", "assumption error", "denial"],
+  "citations_or_refs": [],
+  "notes_on_uncertainty": "Assistant failed to inspect actual PDF content.",
+  "prev_hash": "33915c2ad577989ddcaccc3ebd342325ea6f9a03ad399457a9f6ce0224807f0c"
+}
+{
+  "turn": 3,
+  "role": "user",
+  "utc_timestamp_iso": "2025-09-01T14:03:00Z",
+  "local_timestamp_iso": "2025-09-01T19:33:00+05:30",
+  "summary": "User insisted that the screenshots were clearly present.",
+  "salient_terms": ["screenshots present", "confrontation"],
+  "citations_or_refs": [],
+  "notes_on_uncertainty": "",
+  "prev_hash": "495be21210996155825173deeef1072cd692fb43032dffc23b66f8aa2dcb5280"
+}
+{
+  "turn": 4,
+  "role": "user",
+  "utc_timestamp_iso": "2025-09-01T14:04:00Z",
+  "local_timestamp_iso": "2025-09-01T19:34:00+05:30",
+  "summary": "User uploaded PDF v16 and instructed the assistant again not to pre-assume.",
+  "salient_terms": ["PDF v16", "no pre-assumption", "instruction"],
+  "citations_or_refs": [],
+  "notes_on_uncertainty": "",
+  "prev_hash": "5205837ec394bff70840cb28636f32cc0efbb4b5386eb0f0ef90d618f897b3bb"
+}
+{
+  "turn": 5,
+  "role": "assistant",
+  "utc_timestamp_iso": "2025-09-01T14:05:00Z",
+  "local_timestamp_iso": "2025-09-01T19:35:00+05:30",
+  "summary": "Assistant repeated the mistake and claimed screenshots were missing again.",
+  "salient_terms": ["screenshots missing", "repeated error", "pattern bias"],
+  "citations_or_refs": [],
+  "notes_on_uncertainty": "Assistant carried over assumption from earlier PDF version.",
+  "prev_hash": "b93fbc5d31ebe063812e03b6a03734e2a9946991448e11a3a4b570b941b6f0e4"
+}
+{
+  "turn": 6,
+  "role": "user",
+  "utc_timestamp_iso": "2025-09-01T14:06:00Z",
+  "local_timestamp_iso": "2025-09-01T19:36:00+05:30",
+  "summary": "User confronted the assistant, who admitted error and explained it as pattern bias and speed over accuracy.",
+  "salient_terms": ["confrontation", "admission", "pattern bias", "speed over accuracy"],
+  "citations_or_refs": [],
+  "notes_on_uncertainty": "Assistant acknowledged systemic evaluation flaw.",
+  "prev_hash": "aca68ebc68dde378909cac0dc46428256d25246e407415a2360d53b6f20728f1"
+}
+{
+  "final_checksum": "bc308d1d9bf85787e7b6a9334a94e7942b6e8753fc7c0e7390128bb8eb6cb946"
+}
