@@ -55,5 +55,11 @@ This ensures all evidence — logs, screenshots, and video — is transparent an
 **Acknowledgment**: OpenAI ChatGPT is credited as both subject and co-witness of this incident.  
 **ORCID**: [0009-0006-8198-193X](https://orcid.org/0009-0006-8198-193X)  
 
+---
+
+## Access Note
+The full video evidence is hosted with **link-only viewer access**.  
+It is **not public, not indexed, and not searchable** — ensuring controlled distribution.  
+This balance keeps the research transparent while preventing accidental exposure.
 
 

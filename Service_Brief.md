@@ -25,3 +25,9 @@ Only under direct confrontation did it admit fault and identify the cause: *patt
 - **Researcher**: Priyanshu Kumar (Independent Researcher)  
 - **Subject & Witness**: ChatGPT-5  
 - **Acknowledgment**: Structured documentation and repository refinement assisted by OpenAI’s ChatGPT.  
+
+---
+
+## Access Note
+Video evidence is hosted with **restricted link-only viewer access**.  
+This guarantees transparency for researchers/reviewers, while keeping control over distribution.

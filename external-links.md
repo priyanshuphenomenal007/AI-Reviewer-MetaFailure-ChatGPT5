@@ -15,6 +15,10 @@ Due to GitHub file size limits, some large artifacts are hosted externally.
 
 ---
 
+## Access Note
+This video is hosted in **link-only viewer mode**.  
+It is not public or searchable, ensuring responsible disclosure while still providing full transparency.
+
 ## 📄 Cross-References
 - **arXiv Submission (planned)** → Link will be added once published.  
 - **Author ORCID**: [0009-0006-8198-193X](https://orcid.org/0009-0006-8198-193X)  
